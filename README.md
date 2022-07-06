@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arjoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Arjoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjoo-shaikh-144a3016b/)](https://www.linkedin.com/in/arjoo-shaikh-144a3016b/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/19405005/arjoo-shaikh)
 
 I'm
 DotNet Developer
